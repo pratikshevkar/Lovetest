@@ -1,0 +1,27 @@
+
+body {
+    background-color: #13F0E9;
+}
+
+.pleaseImage {
+    height: 200px;
+    width: auto;
+}
+
+h1 {
+    font-family: 'PT Serif';
+    color: white;
+}
+
+.btn {
+    font-family: 'PT Serif';
+}
+#changeImageBtn{
+    position: absolute;
+    margin-left: 10vh;
+}
+
+#changeImageBtn2 {
+    position: absolute;
+    margin-left: 20vh;
+}
